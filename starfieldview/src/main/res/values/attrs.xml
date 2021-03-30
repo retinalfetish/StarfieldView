@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StarfieldView">
+        <attr name="starAlpha" format="float" />
+        <attr name="starColor" format="color" />
+        <attr name="starCount" format="integer" />
+        <attr name="starSize" format="dimension" />
+        <attr name="starSpeed" format="float" />
+    </declare-styleable>
+</resources>

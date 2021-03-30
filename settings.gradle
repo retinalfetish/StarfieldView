@@ -1,0 +1,3 @@
+include ':starfieldview'
+include ':app'
+rootProject.name = "StarfieldView"
